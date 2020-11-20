@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 text1
+=======
+test2
+>>>>>>> newbranch1
